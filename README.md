@@ -26,7 +26,7 @@ Backend-focused full-stack engineer based in Bengaluru. I build APIs, web applic
 ## Background
 
 - MCA, Odisha University of Technology and Research (OUTR), 2025 — 8.9 CGPA.
-- CodeChef 4-Star (peak rating 1802).
+- CodeChef 4-Star (max rating 1802).
 - Solved 500+ DSA problems across LeetCode, CodeChef, and GeeksforGeeks.
 - Helped build and launch the Zigbee alumni portal as a volunteer developer.
 
