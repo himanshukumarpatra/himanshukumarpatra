@@ -19,9 +19,9 @@ Backend-focused full-stack engineer based in Bengaluru. I build APIs, web applic
 
 ## Selected personal projects
 
-- **[Nexus Cloud Commerce](https://github.com/kumarbanty143/nexus-cloud-commerce)** — A tutorial-guided Java/Spring Boot e-commerce microservices project. Currently improving correctness, tests, and documentation.
-- **[Splitwise MVP](https://github.com/kumarbanty143/splitwise-mvp)** — Shared-expense tracking with per-user balances, using Node.js, Express, and Sequelize/SQLite.
-- **[Portfolio](https://github.com/kumarbanty143/my_portfolio)** — My personal portfolio and project showcase.
+- **[Nexus Cloud Commerce](https://github.com/himanshukumarpatra/nexus-cloud-commerce)** — A tutorial-guided Java/Spring Boot e-commerce microservices project. Currently improving correctness, tests, and documentation.
+- **[Splitwise MVP](https://github.com/himanshukumarpatra/splitwise-mvp)** — Shared-expense tracking with per-user balances, using Node.js, Express, and Sequelize/SQLite.
+- **[Portfolio](https://github.com/himanshukumarpatra/my_portfolio)** — My personal portfolio and project showcase.
 
 ## Background
 
